@@ -4,7 +4,9 @@
 
 All API requests require an API key passed via the `Authorization` header.
 
-Rate limit: 100 requests per minute
+Rate limit: 200 requests per minute
+
+Responses include an `X-RateLimit-Remaining` header indicating how many requests remain in the current window.
 
 ## Endpoints
 
