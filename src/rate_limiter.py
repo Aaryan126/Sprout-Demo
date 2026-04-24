@@ -1,0 +1,4 @@
+# Rate Limiter Configuration
+
+MAX_REQUESTS_PER_MINUTE = 200
+RATE_LIMIT_HEADERS_ENABLED = True
