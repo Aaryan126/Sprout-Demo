@@ -1,7 +1,6 @@
 # Product Documentation
 
 Welcome to the product docs!
-Hi
 
 ## Features
 
